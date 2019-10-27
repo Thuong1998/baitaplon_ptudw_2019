@@ -1,0 +1,28 @@
+{
+  "name": "baitaplon_ptudw_2019",
+  "version": "1.0.0",
+  "description": "## Nhóm 2:  - Cao Đức Huân - Nguyễn Trọng Thưởng - Nguyễn Thị Huyền Trang - Trần Văn Tuấn - Trần Văn Tú - Trần Xuân Trường - Hà Quang hưng",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Thuong1998/baitaplon_ptudw_2019.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Thuong1998/baitaplon_ptudw_2019/issues"
+  },
+  "homepage": "https://github.com/Thuong1998/baitaplon_ptudw_2019#readme",
+  "dependencies": {
+    "bcrypt": "^3.0.6",
+    "body-parser": "^1.19.0",
+    "config": "^3.2.4",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "morgan": "^1.9.1",
+    "mysql2": "^1.7.0"
+  }
+}
